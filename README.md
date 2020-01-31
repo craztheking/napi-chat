@@ -1,2 +1,2 @@
 # napi-chat
-NAPI Module for FiveM. Provides a replacement chat interface using NAPI.
+NAPI Module for RedM. Provides a replacement chat interface using NAPI.
